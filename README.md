@@ -1,6 +1,7 @@
 # Fly-By-Pi Controller for Geotechnical Centrifuges :bird:
-Fly-by-Pi: Raspberry Pi closed-loop linear actuator controller for geotechnical centrifuges
-![Image of a geotechnical centrifuge](https://github.com/andrebroekman/FlyByPi/centrifuge.png)
+Fly-by-Pi: Raspberry Pi closed-loop linear actuator controller for geotechnical centrifuges.
+
+![Image of a geotechnical centrifuge](https://github.com/andrebroekman/FlyByPi/blob/master/centrifuge.png)
 
 A simple Python implementation for closed-loop control of linear actuators and/or motors. Primarily developed for geotechnical centrifuge applications at the Department of Civil Engineering, University of Pretoria.
 
