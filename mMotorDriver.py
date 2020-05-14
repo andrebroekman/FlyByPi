@@ -20,6 +20,7 @@ the motor, set the speed (duty cycle) and direction of movement.
 Standard Raspberry Pi pinouts are used.
 
 Modified by Andre Broekman 2020/05/13
+Open Source License: Creative Commons Attribution-ShareAlike
 """
 
 import RPi.GPIO as GPIO

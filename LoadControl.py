@@ -23,6 +23,7 @@ through the MCP3424 ADC. The feedback frequency is approximately
 
 Run using: sudo python3 LoadControl.py
 Modified by Andre Broekman 2020/05/13
+Open Source License: Creative Commons Attribution-ShareAlike
 """
 
 from __future__ import absolute_import, division, print_function, \

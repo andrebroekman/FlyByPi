@@ -22,6 +22,7 @@ motor is defined followed by a number of load-unload cycles.
 
 Run using: sudo python3 TimeControl.py
 Modified by Andre Broekman 2020/05/13
+Open Source License: Creative Commons Attribution-ShareAlike
 """
 
 from mMotorDriver import cMotorDriver as md

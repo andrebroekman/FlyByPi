@@ -23,6 +23,7 @@ of read errors due to interference and data corruption.
 
 Run using: sudo python3 StressTestADC.py
 Modified by Andre Broekman 2020/05/13
+Open Source License: Creative Commons Attribution-ShareAlike
 """
 
 from __future__ import absolute_import, division, print_function, \
