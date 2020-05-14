@@ -1,19 +1,7 @@
 #!/usr/bin/env python
 """
 Fly-by-Pi Controller
-
-    ___,-////,
-   /___)(0) )
-       /.--.\
-      /,-'./.\\
-      \/ \. \ \\
-       \. \ \ \/
-   ====((=((\====
-           \\\.\
-             \\\'
-               \\'
-                '_'
-				
+	
 Code based on source code provided by:
 ABElectronics ADC Differential Pi 8-Channel ADC demo
 https://github.com/abelectronicsuk/ABElectronics_Python_Libraries

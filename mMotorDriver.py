@@ -1,19 +1,7 @@
 #!/usr/bin/python3
 """
 Fly-by-Pi Controller
-
-    ___,-////,
-   /___)(0) )
-       /.--.\
-      /,-'./.\\
-      \/ \. \ \\
-       \. \ \ \/
-   ====((=((\====
-           \\\.\
-             \\\'
-               \\'
-                '_'
-				
+	
 Class file for the motor driver (Pololu 24v13). Simplifies the
 control motor driver by exposing function to enable/disengage
 the motor, set the speed (duty cycle) and direction of movement.

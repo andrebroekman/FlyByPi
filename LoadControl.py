@@ -3,19 +3,7 @@
 
 """
 Fly-by-Pi Controller
-
-    ___,-////,
-   /___)(0) )
-       /.--.\
-      /,-///.\
-      \/ \//\ \
-       \. \/\ |
-   ===={{={{\====
-           \\\.\
-             \\\\
-               \\\
-                '_'
-			
+	
 Demonstration on the use of the load control functionality.
 The load is obtained by the centrifuge's DAQ system, sent
 through the MCP3424 ADC. The feedback frequency is approximately

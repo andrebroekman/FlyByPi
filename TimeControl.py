@@ -4,18 +4,6 @@
 """
 Fly-by-Pi Controller
 
-    ___,-////,
-   /___)(0) )
-       /.--.\
-      /,-'./.\\
-      \/ \. \ \\
-       \. \ \ \/
-   ====((=((\====
-           \\\.\
-             \\\'
-               \\'
-                '_'
-				
 Demonstration on the use of simple time-based cyclic control
 for controlling an actuator. The speed (duty-cycle) of the
 motor is defined followed by a number of load-unload cycles.
