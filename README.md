@@ -7,6 +7,13 @@ A simple Python implementation for closed-loop control of linear actuators and/o
 
 Demo files of both time- and load-based control is included. The class files for the motor driver and ADC (MCP3424) and motor controller (Pololu 24v13) should be replaced/amended as neccesary repending on the particular type of hardware that is implemented.
 
+## Getting Started
+Either download or git clone this repository to the desired directory on the Raspberry Pi:
+```
+cd /home/pi/Desktop
+git clone https://github.com/andrebroekman/FlyByPi
+```
+
 ## Scripts
 - StressTestADC.py - stress test the ADC to determine the performance and reliability with simple metrics
 - TimeControl.py - demonstration code of time-based control for a motor/actuator
