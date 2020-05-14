@@ -1,6 +1,9 @@
 # Fly-By-Pi Controller for Geotechnical Centrifuges :bird:
 Fly-by-Pi: Raspberry Pi closed-loop linear actuator controller for geotechnical centrifuges
-Python implementation for controlling a linear actuator using a motor controller and ADC for closed-loop feedback and control.
+![Image of a geotechnical centrifuge](https://github.com/andrebroekman/FlyByPi/centrifuge.png)
+
+A simple Python implementation for closed-loop control of linear actuators and/or motors. Primarily developed for geotechnical centrifuge applications at the Department of Civil Engineering, University of Pretoria.
+
 Demo files of both time- and load-based control is included. The class files for the motor driver and ADC (MCP3424) and motor controller (Pololu 24v13) should be replaced/amended as neccesary repending on the particular type of hardware that is implemented.
 
 ## Scripts
