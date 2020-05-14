@@ -19,8 +19,8 @@ sudo python3 TimeControl.py
 ```
 
 ## Class files
-mMCP3424.py - [MCP3424 ADC](https://www.dfrobot.com/product-1182.html) class file
-mMotorDriver.py - [Pololu 24v3 motor driver](https://www.pololu.com/product/2992) class file
+* mMCP3424.py - [MCP3424 ADC](https://www.dfrobot.com/product-1182.html) class file
+* mMotorDriver.py - [Pololu 24v3 motor driver](https://www.pololu.com/product/2992) class file
 
 ## Individual Experiments
 Archived implementation scripts. Ensure that these scripts are copied to the same directory as that of the class files if they are to be used.  Otherwise, create a copy of one for the template scripts that provide a default framework.
