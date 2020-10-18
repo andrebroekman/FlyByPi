@@ -1,5 +1,6 @@
 # Fly-By-Pi Controller for Geotechnical Centrifuges :bird:
-Fly-by-Pi: Raspberry Pi closed-loop linear actuator controller for geotechnical centrifuges.
+[Fly-by-Pi: Open source closed-loop control for geotechnical centrifuge testing applications. The full article published in the HardwareX open access journal can be found using the DOI link: https://doi.org/10.1016/j.ohx.2020.e00151](https://doi.org/10.1016/j.ohx.2020.e00151)
+
 
 ![Image of a geotechnical centrifuge](https://github.com/andrebroekman/FlyByPi/blob/master/centrifuge.png)
 
@@ -28,7 +29,7 @@ sudo python3 TimeControl.py
 
 
 ## Class files
-* mMCP3424.py - [MCP3424 ADC](https://www.dfrobot.com/product-1182.html) class file
+* mMCP3424.py -  class file
 * mMotorDriver.py - [Pololu 24v3 motor driver](https://www.pololu.com/product/2992) class file
 
 
